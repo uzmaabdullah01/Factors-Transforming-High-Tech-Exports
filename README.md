@@ -14,5 +14,4 @@ theories; while, economies-of-scale are relatively less effective in the promoti
 exports. The variable import of electronics parts and components strongly support the presence 
 of the phenomenon of processing trade. Based on these findings, the paper draws some 
 implications for policy making to leverage high-tech exports from OICs. 
-Key Words: High-Tech Exports, Empirical Bayesian Method, OIC Countries.# Factors-Transforming-High-Tech-Exports
-Research Paper
+Key Words: High-Tech Exports, Empirical Bayesian Method, OIC Countries.
